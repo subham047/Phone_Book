@@ -158,6 +158,7 @@ public class PhoneBook implements Comparable {
 		while (n != 0) {
 			n /= 10;
 			len++;
+			
 		}
 		if (len == 10) {
 
